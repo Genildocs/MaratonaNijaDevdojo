@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e7014b-693e-49ff-9ca8-4f7971843344" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaratonaNijaDevdojo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TiposPrimitivos.java" afterDir="false" />
+    <list default="true" id="33e7014b-693e-49ff-9ca8-4f7971843344" name="Changes" comment="Segundo Commit">
+      <change afterPath="$PROJECT_DIR$/src/OperadoresLogicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_06_2022_04_14__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_06_2022_04_14__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +23,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Axq3YwbKXPMJRkvNsUZjqhABgX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,9 +42,23 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OperadoresAritmeticos">
+  <component name="RunManager" selected="Application.OperadoresLogicos">
     <configuration name="OperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OperadoresAritmeticos" />
+      <module name="MaratonaNijaDevdojo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadoresLogicos" />
+      <module name="MaratonaNijaDevdojo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadoresRelacionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadoresRelacionais" />
       <module name="MaratonaNijaDevdojo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,6 +73,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperadoresLogicos" />
+        <item itemvalue="Application.OperadoresRelacionais" />
         <item itemvalue="Application.OperadoresAritmeticos" />
         <item itemvalue="Application.TiposPrimitivos" />
       </list>
@@ -74,6 +89,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655961387327</updated>
     </task>
+    <task id="LOCAL-00001" summary="Segundo Commit">
+      <created>1655968966428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655968966428</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +109,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Segundo Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segundo Commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
