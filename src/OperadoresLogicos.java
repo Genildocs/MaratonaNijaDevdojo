@@ -25,6 +25,18 @@ public class OperadoresLogicos {
         }else{
             System.out.println("Falso, caso as duas condições sejam falsa.");
         }
-
+        //Operadores de atribuição = += -= *= /= %=
+        double bonus = 1800; // 1800
+        System.out.println(bonus);
+        bonus += 1000; // 2800
+        System.out.println(bonus);
+        bonus -= 1000; // 1800
+        System.out.println(bonus);
+        bonus *= 2;
+        System.out.println(bonus);
+        bonus /= 2;
+        System.out.println(bonus);
+        bonus %= 2;
+        System.out.println(bonus);
     }
 }
