@@ -13,6 +13,9 @@ public class OperadoresLogicos {
         boolean negacaoLogica = !(idade > 30);
         System.out.println("Negação logica retornou: " + negacaoLogica + " , mesmo sendo uma condição falsa.");
 
+        boolean negacaoLogica2 = !(idade == 18);
+        System.out.println("Negação logica retornou: " + negacaoLogica2 + " , mesmo sendo uma condição verdadeira.");
+
         if (idade == 18 && salario == 2500) {
             System.out.println("Verdade, pois as duas condições são verdadeiras.");
         }
