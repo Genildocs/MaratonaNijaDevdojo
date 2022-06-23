@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e7014b-693e-49ff-9ca8-4f7971843344" name="Changes" comment="OperadoresLogicos atualizado" />
+    <list default="true" id="33e7014b-693e-49ff-9ca8-4f7971843344" name="Changes" comment="OperadoresLogicos atualizado">
+      <change afterPath="$PROJECT_DIR$/src/EstruturasCondicionais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,13 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/genildo/Documentos/MaratonaNijaDevdojo"
   }
-}</component>
-  <component name="RunManager" selected="Application.OperadoresLogicos">
+}]]></component>
+  <component name="RunManager" selected="Application.EstruturasCondicionais">
+    <configuration name="EstruturasCondicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturasCondicionais" />
+      <module name="MaratonaNijaDevdojo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OperadoresAritmeticos" />
       <module name="MaratonaNijaDevdojo" />
@@ -69,9 +80,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EstruturasCondicionais" />
+        <item itemvalue="Application.OperadoresAritmeticos" />
         <item itemvalue="Application.OperadoresLogicos" />
         <item itemvalue="Application.OperadoresRelacionais" />
-        <item itemvalue="Application.OperadoresAritmeticos" />
         <item itemvalue="Application.TiposPrimitivos" />
       </list>
     </recent_temporary>
