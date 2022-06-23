@@ -1,3 +1,3 @@
-## MaratonaNijaDevdojo
+## MaratonaNinjaDevdojo
 
 ### Aulas de java Devdojo.
