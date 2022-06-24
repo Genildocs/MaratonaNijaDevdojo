@@ -4,6 +4,7 @@ public class EstruturasCondicionais {
     public static void main(String[] args) {
         //Estrutura de decisão IF / ELSE
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Primeiro exemplo de if, comprando se um numero é par ou impar:");
         System.out.print("Digite um numero: ");
         int number = scanner.nextInt();
 
@@ -11,10 +12,12 @@ public class EstruturasCondicionais {
             System.out.println("Esse numero é par!");
         }else{
             System.out.println("Esse numero é impar!");
-        }scanner.close();
+        }
 
-        System.out.println("Segundo exemplo de if:");
-        int idade = 15;
+        System.out.println("Segundo exemplo de if, " +
+                "comparando se uma pessoa pode ou não comprar bebidas de acordo com a idade.");
+        System.out.print("Digite uma idade: ");
+        int idade = scanner.nextInt();
         if(idade >= 18){
             System.out.println("Pode comprar bebida alcolica.");
         }else{
