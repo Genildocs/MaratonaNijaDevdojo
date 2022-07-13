@@ -9,7 +9,7 @@ public class EstruturasCondicionais {
         System.out.print("Digite um numero: ");
         int number = scanner.nextInt();
 
-        if(number % 2 == 0){
+        if (number % 2 == 0){
             System.out.println("Esse numero é par!");
         }else{
             System.out.println("Esse numero é impar!");
