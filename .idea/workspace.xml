@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e7014b-693e-49ff-9ca8-4f7971843344" name="Changes" comment="OperadoresLogicos atualizado">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaArrays/ArraysForeach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/classes/metodos/dominio/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/dominio/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/dominio/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/dominio/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/test/EstudanteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/test/ExercicioClasseCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/test/ProfessorTeste.java" afterDir="false" />
+    <list default="true" id="33e7014b-693e-49ff-9ca8-4f7971843344" name="Changes" comment="orientecao a objetos">
+      <change afterPath="$PROJECT_DIR$/src/POO/classes/metodos/teste/CalculadoraTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/classes/metodos/teste/CalculadoraTeste02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/classes/metodos/teste/CalculadoraTeste03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaArrays/Arrays01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturaArrays/Arrays01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExercicioCondicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercicioCondicionais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/classes/metodos/dominio/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/classes/metodos/dominio/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/test/EstudanteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/test/EstudanteTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +47,13 @@
     "last_opened_file_path": "/home/genildo/Documentos/Projetos/MaratonaNijaDevdojo"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExercicioClasseCar">
-    <configuration name="Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturaArrays.Arrays01" />
+  <component name="RunManager" selected="Application.CalculadoraTeste03">
+    <configuration name="CalculadoraTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.classes.metodos.teste.CalculadoraTeste01" />
       <module name="MaratonaNijaDevdojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturaArrays.*" />
+          <option name="PATTERN" value="POO.classes.metodos.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysForeach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturaArrays.ArraysForeach" />
+    <configuration name="CalculadoraTeste02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.classes.metodos.teste.CalculadoraTeste02" />
       <module name="MaratonaNijaDevdojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturaArrays.*" />
+          <option name="PATTERN" value="POO.classes.metodos.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstudanteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POO.test.EstudanteTest" />
+    <configuration name="CalculadoraTeste03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.classes.metodos.teste.CalculadoraTeste03" />
       <module name="MaratonaNijaDevdojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="POO.test.*" />
+          <option name="PATTERN" value="POO.classes.metodos.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculadoraTeste03" />
+        <item itemvalue="Application.CalculadoraTeste02" />
+        <item itemvalue="Application.CalculadoraTeste01" />
         <item itemvalue="Application.ExercicioClasseCar" />
         <item itemvalue="Application.ProfessorTeste" />
-        <item itemvalue="Application.EstudanteTest" />
-        <item itemvalue="Application.ArraysForeach" />
-        <item itemvalue="Application.Arrays01" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655972116169</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="orientecao a objetos">
+      <created>1657980091945</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657980091945</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,7 +178,8 @@
     <MESSAGE value="Segundo Commit" />
     <MESSAGE value="OperadoresLogicos" />
     <MESSAGE value="OperadoresLogicos atualizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="OperadoresLogicos atualizado" />
+    <MESSAGE value="orientecao a objetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="orientecao a objetos" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
