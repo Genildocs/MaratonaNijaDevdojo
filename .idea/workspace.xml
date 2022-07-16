@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33e7014b-693e-49ff-9ca8-4f7971843344" name="Changes" comment="OperadoresLogicos atualizado">
-      <change afterPath="$PROJECT_DIR$/src/EstruturasCondicionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturaArrays/ArraysForeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/classes/metodos/dominio/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/dominio/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/dominio/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/test/EstudanteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/test/ExercicioClasseCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/test/ProfessorTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaArrays/Arrays01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturaArrays/Arrays01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioCondicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercicioCondicionais.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,52 +49,83 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/genildo/Documentos/MaratonaNijaDevdojo"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/genildo/Documentos/Projetos/MaratonaNijaDevdojo"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EstruturasCondicionais">
-    <configuration name="EstruturasCondicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturasCondicionais" />
+  <component name="RunManager" selected="Application.ExercicioClasseCar">
+    <configuration name="Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturaArrays.Arrays01" />
       <module name="MaratonaNijaDevdojo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstruturaArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperadoresAritmeticos" />
+    <configuration name="ArraysForeach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturaArrays.ArraysForeach" />
       <module name="MaratonaNijaDevdojo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstruturaArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperadoresLogicos" />
+    <configuration name="EstudanteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.test.EstudanteTest" />
       <module name="MaratonaNijaDevdojo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POO.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadoresRelacionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperadoresRelacionais" />
+    <configuration name="ExercicioClasseCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.test.ExercicioClasseCar" />
       <module name="MaratonaNijaDevdojo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POO.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TiposPrimitivos" />
+    <configuration name="ProfessorTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.test.ProfessorTeste" />
       <module name="MaratonaNijaDevdojo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POO.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EstruturasCondicionais" />
-        <item itemvalue="Application.OperadoresAritmeticos" />
-        <item itemvalue="Application.OperadoresLogicos" />
-        <item itemvalue="Application.OperadoresRelacionais" />
-        <item itemvalue="Application.TiposPrimitivos" />
+        <item itemvalue="Application.ExercicioClasseCar" />
+        <item itemvalue="Application.ProfessorTeste" />
+        <item itemvalue="Application.EstudanteTest" />
+        <item itemvalue="Application.ArraysForeach" />
+        <item itemvalue="Application.Arrays01" />
       </list>
     </recent_temporary>
   </component>

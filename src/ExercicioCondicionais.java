@@ -14,12 +14,12 @@ public class ExercicioCondicionais {
 
 
         if ( salario <= 34712){
-            System.out.print("Imposto pago é: " + Math.ceil(salario*(9.7/100)));
+            System.out.print("Imposto pago é R$: " + Math.ceil(salario*(9.7/100)));
         }else if( salario == 34713 || salario <= 68507 ){
-            System.out.print("Imposto pago é: " + Math.ceil(salario*(37.35/100)));
+            System.out.print("Imposto pago é R$: " + Math.ceil(salario*(37.35/100)));
         }else{
-            System.out.print("Imposto pago é: " + Math.ceil(salario*(49.50/100)));
-        }
+            System.out.print("Imposto pago é R$: " + Math.ceil(salario*(49.50/100)));
+        }scanner.close();
 
 
 
